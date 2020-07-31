@@ -1,6 +1,7 @@
 demo地址：https://www.ddzhl.com/ddg6editor/dist/index.html
 G6文档   https://www.yuque.com/antv/g6
-G6api文档  
+G6api文档 
+
 
 
 <!-- ![效果图](https://github.com/caoyu48/vue-g6-editor/blob/master/1.gif)
