@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "vue+g6+element可视化编辑器",
   "keyword": "vue g6 g6-editor",
-  "author": "280196641@qq.com",
+  "author": "413138632@qq.com",
   "private": false,
   "license": "MIT",
   "scripts": {
@@ -37,6 +37,7 @@
     "es6-promise": "^4.2.8",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "image-webpack-loader": "^6.0.0",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "vue-template-compiler": "^2.6.10"
   },
